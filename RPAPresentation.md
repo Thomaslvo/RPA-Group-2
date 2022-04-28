@@ -10,7 +10,7 @@
 
  
  # Lifecyle for RPA
-- ![alt text](https://static.javatpoint.com/tutorial/rpa/images/rpa-life-cycle.png)
+ ![alt text](https://static.javatpoint.com/tutorial/rpa/images/rpa-life-cycle.png)
 
 
 
@@ -36,13 +36,14 @@
 
 
 # Top RPA Vendors
-- ![alt text](https://ik.imagekit.io/ag/wp-content/uploads/2018/08/rpa-tools-list.jpeg)
+ ![alt text](https://ik.imagekit.io/ag/wp-content/uploads/2018/08/rpa-tools-list.jpeg)
 
 
-1.  # **UI Path**
-    -Market Leader in RPA with about 3,000 employees.  
-    - UiPath offers an Azure Cloud SaaS tool, an embedded analytics feature, and a mobile app for its Orchestrator tool. Significantly, it offers an AI integration fabric, which allows robust enablement of AI features.
-- ### *Key Features*
+ # 1. **UI Path**
+- Market Leader in RPA with about 3,000 employees.  
+- UiPath offers an Azure Cloud SaaS tool, an embedded analytics feature, and a mobile app for its Orchestrator tool. Significantly, it offers an AI integration fabric, which allows robust enablement of AI features.
+
+## *Key Features:*
 -  **Extensive partner network:** 
 UiPath has built a rich network of alliances with technology partners, which offer supporting software. These related applications run the gamut from AI to business process management (BPM) to complex process mining. This well-developed network should help UiPath stay up with the curve as RPA grows rapidly.
 
@@ -53,11 +54,12 @@ UiPath has built a rich network of alliances with technology partners, which off
     - Disadvantages: Complex user interface, late to employ use of cloud.
 
 
-2.  # **Automation Anywhere**
+ # 2.**Automation Anywhere**
 
-    - Full cloud a SaaS-enabled providing a low enough cost of ownership for SMBs, with a product depth and a developed roadmap that’s also suitable for large enterprise customers.  Mobile apps lets user allows for client portability.
+- Full cloud a SaaS-enabled providing a low enough cost of ownership for SMBs, with a product depth and a developed roadmap that’s also suitable for large enterprise customers.  Mobile apps lets user allows for client portability.
 
- - *Key Features*
+
+## *Key Features:*
  - **Industry-leading partner network:** Automation Anywhere has a vast partner network, offering support for RPA tools and solutions of every stripe. It boasts nearly 600 staff in R&D. The company has a market presence around the world, allowing it to serve even the largest multinational client.
 
 - **User interface:** Automation Anywhere’s most routine bot automations are designed to be very easy to build. The solution is fully cloud-based (and SaaS accessible) so a web-based software robot is assembled with relative simplicity. The company’s flagship Automation Anywhere Enterprise A2019 offers a persona-based platform for developers and non-tech-savvy staff to use for easy collaboration.
@@ -69,24 +71,21 @@ UiPath has built a rich network of alliances with technology partners, which off
 
 
 
-3. # **Blue Prism**
-    - Market leader in RPA, with elaborate product roadmaps with commitment to using AI.  Targeted for large enterprises with deep resources.
-- Founded in 2001 by software automation expert team.  Onsite SaaS cloud deployment; integrates with Google which is arguably best in class.
+ # 3.**Blue Prism**
+    
+- Market leader in RPA, with elaborate product roadmaps with commitment to using AI.  Targeted for large enterprises with deep resources. Founded in 2001 by software automation expert team.  Onsite SaaS cloud deployment; integrates with Google which is arguably best in class.
 
-- *Key Features*
+## *Key Features:*
 - **Strong vertical focus:** Understanding that the sectors ranging from healthcare to manufacturing to retail have very different RPA needs, Blue Prism has launched scores of industry solutions, with active customers in each.
 
 - **Graphical user interface:** To allow less technical staff create automations, Blue Prism includes drag-and-drop interface for building process automations.
 
 - **Commitment to AI:** The company’s Blue Prism Labs is an AI laboratory focusing on computer vision and document interface, primarily for unattended use cases. The company’s roadmap suggests it will use this AI depth to support more attended, human-involved use cases in the future. Blue Prism acquired startup Thoughtonomy – which built a cloud-based AI engine – in July 2019 to further its AI functionality.
-    - Advantages: strong in unattened use cases allowing for humans in the loop and augmented staff productivity.
-    - Partnerships include many consultants: this could help with launch and implementation.
-    - History of stability in security and encryption.
-    - Disadvantages: repoorting and scheduling could be more efficient in enterprise-wide deployment.
-    - Dont use mimicry of human actions to build automation.
-    - Requires a more technical user.
+    - Advantages: strong in unattened use cases allowing for humans in the loop and augmented staff productivity.  Partnerships include many consultants: this could help with launch and implementation.  History of stability in security and encryption.
+    - Disadvantages: repoorting and scheduling could be more efficient in enterprise-wide deployment.  Dont use mimicry of human actions to build automation.  Requires a more technical user.
 
--
+
+
 
 # References
 - https://www.javatpoint.com/rpa-life-cycle
